@@ -1,1 +1,1 @@
-# market-structure-analysis-project
+# Market Structure Analysis Project
